@@ -1,0 +1,8 @@
+local_id=device_2
+remote_id=device_1
+server_ip=1.11.1.111
+user_name=usernameExample
+password=passwordExample
+backup_folder=./data/
+remote_folder=/ftp_file_sync/
+sync_folder=./data/test_folder
